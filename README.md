@@ -13,11 +13,11 @@ So this we can do in real-time, also estimate or it will track the 18 different 
 
 
 
-3. I used, Microsoft Portal where I used Microsoft Storage services for uploading my project source code.
-source code link: 1. https://neeraj529kumar.blob.core.windows.net/neeraj529/openpose.py
-                  2. https://neeraj529kumar.blob.core.windows.net/neeraj529/Project.zip
+3. I used, Microsoft Portal where I used Microsoft Storage services for uploading my project source code. 
+   source code link: 1. https://neeraj529kumar.blob.core.windows.net/neeraj529/openpose.py
+                     2. https://neeraj529kumar.blob.core.windows.net/neeraj529/Project.zip
                   
-Project Demo link: https://youtu.be/AmYMBXLF33Q
+   Project Demo link: https://youtu.be/AmYMBXLF33Q
 
 
 
@@ -28,20 +28,34 @@ Project Demo link: https://youtu.be/AmYMBXLF33Q
 ![contain-all-file](https://user-images.githubusercontent.com/44793025/152474908-7202a87c-65f6-43f1-96c4-b7ef8d598e37.png)
 
 
+
+
+
 2. This is an Image before Estimation.
 ![img-before-estimate](https://user-images.githubusercontent.com/44793025/152474926-47c0f181-01c8-422d-8d41-cf4920db3cc6.png)
+
+
+
 
 
 3. This is an Image after Estimation.
 ![img-after-estimation](https://user-images.githubusercontent.com/44793025/152474932-e8288486-f437-4297-9793-04c2ba809308.png)
 
 
+
+
+
 4. Source code look like snaps below.
 ![source-code](https://user-images.githubusercontent.com/44793025/152474936-c10123c7-61a7-4a81-b24e-5044b4ad4490.png)
 
 
+
+
+
 5 Steps to compile and run the code.
 ![steps-to-run](https://user-images.githubusercontent.com/44793025/152474940-8e275a9c-b61b-49e0-801b-85e8af902442.png)
+
+
 
 
 6 Finally our some output snaps below.
